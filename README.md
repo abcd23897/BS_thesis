@@ -1,1 +1,1 @@
-# BS_thesis
+a.py - calculates something. 
